@@ -42,11 +42,13 @@ Console Tab
 
 - Modern & Clean UI
 - Auto Updates UI & API
-- Multi / Single process selection 
+- Multi / Single process Support 
 - ScriptHub with Scriptblox API (Large Library Of Scripts)
 - Renamable tabs 
 - Console Tab
 - Searchable Scripts List
+- Saving Tabs
+- Saving Settings
 - 99% UNC & 96% UNC For Optimal Performance When Debugging
 
 
