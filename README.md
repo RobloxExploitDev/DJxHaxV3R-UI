@@ -3,7 +3,7 @@ A Lua Script Executor Powered By Velocity API. UI is a Reborn Version of Origina
 
 Download In Discord Or UI Releases (May Be Oudated, AutoUpdates) - https://discord.gg/qVT2yR63fq 
 
-Latest Version - V3.0.0vr (Images May Be Outdated. Release Will Auto Update When Ran.)
+Latest Version - V3.0.1vr (Images May Be Outdated. Release Will Auto Update When Ran.)
 
 UNC - 99% 
 
